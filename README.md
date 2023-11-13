@@ -1,2 +1,2 @@
 # sentiment_analysis
-Analyze sentiment of reviews
+Developed a Python-based text analysis tool to scrutinize online reviews, employing natural language processing and machine learning techniques as a sample college assignment for https://www.programminghomeworkhelp.com/python-assignment/. This project aims to identify fake reviews by analyzing patterns in language usage, sentiment inconsistencies, and other anomalies that differentiate genuine feedback from fabricated ones.
